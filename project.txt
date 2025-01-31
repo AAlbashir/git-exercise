@@ -1,0 +1,2 @@
+Our project is about building a "Rent or Buy" financial calculator.
+It will containt many features.
